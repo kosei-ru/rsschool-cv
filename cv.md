@@ -29,8 +29,7 @@ function testFactorial(a) {
 }
 ```
 ## Education
-- Vologda State University
-Department of Mathematics and Information Technologies
+- Vologda State University. Department of Mathematics and Information Technologies
 
 ## Language
 - Russian - Native
