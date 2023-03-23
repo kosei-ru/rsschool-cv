@@ -1,2 +1,2 @@
-# rsschool-cv
-rsschool2023Q1
+https://kosei-ru.github.io/rsschool-cv/cv
+https://kosei-ru.github.io/rsschool-cv/
