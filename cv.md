@@ -15,3 +15,22 @@ I study at the RS School. I want to learn Front-End Development.
 - CSS
 - JavaScript
 - GitHub
+
+## Code Example
+```
+function testFactorial(a) {
+  let x = 1;
+  
+  for (let i = 2; i <= a; i++) {
+      x *= i;
+  }
+  
+  return x;
+}
+```
+## Education
+- Vologda State University. Department of Mathematics and Information Technologies
+
+## Languages
+- Russian - Native
+- English - A1 (Elementary)
